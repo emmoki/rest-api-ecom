@@ -19,6 +19,6 @@
 
 # Go workspace file
 go.work
-
+.env
 config/env.go
 
